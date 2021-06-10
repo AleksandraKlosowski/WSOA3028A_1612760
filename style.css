@@ -12,8 +12,8 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: darkslategrey;
-    font-family: "Poppins", sans-serif;
+    background-color: #5D4954;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .logo {
@@ -69,7 +69,7 @@ nav {
         right: 0px;
         height: 92vh;
         top: 8vh;
-        background-color: darkslategrey;
+        background-color: #5D4954;
         display: flex;
         flex-direction: column;
         align-items: center;
