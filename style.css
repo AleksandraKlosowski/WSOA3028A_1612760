@@ -2,6 +2,7 @@
     margin: 100;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 nav {
@@ -21,9 +22,11 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   padding-top: 40px; 
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 main {
     padding-top: 60px; 
+    font-family: 'IBM Plex Sans', sans-serif;
   }
 
 .logo {
