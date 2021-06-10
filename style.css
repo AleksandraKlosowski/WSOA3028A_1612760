@@ -16,6 +16,10 @@ nav {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
+div {
+  background-image: "/Background/background1.jpg";
+}
+
 .logo {
     color: rgb(226, 226, 226);
     text-transform: uppercase;
