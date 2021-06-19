@@ -55,13 +55,12 @@ main {
 .content {
     color: black;
     text-transform: uppercase;
-    letter-spacing: 4px;
-    font-size: 10px;
+    letter-spacing: 1px;
+    font-size: 20px;
     text-align: center;
-    background-color: whitesmoke;
+    font-weight: normal;
 
 }
-
 
 .title {
     margin-left: auto;
@@ -187,4 +186,8 @@ main {
     left: 50%;
     transform: translate(-50%,0);
     pointer-events: none
+  }
+
+  .center{
+      text-align: center;
   }
