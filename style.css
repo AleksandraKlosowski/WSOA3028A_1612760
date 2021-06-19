@@ -1,3 +1,4 @@
+
 * {
     margin: 100;
     padding: 0;
@@ -191,7 +192,8 @@ main {
     transform: rotate(45deg) translate(-5px, -6px);
 }
 
-.img-parallax {
+
+  .img-parallax {
     width: 100vmax;
     z-index: -1;
     position: absolute;
@@ -200,7 +202,7 @@ main {
     transform: translate(-50%,0);
     pointer-events: none
   }
-
-  .center{
-      text-align: center;
-  }
+  
+.center{
+    text-align: center;
+}
