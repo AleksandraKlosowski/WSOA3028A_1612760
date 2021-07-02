@@ -4,6 +4,9 @@
 
     --clr-neutral-100: #fff;
     --clr-neutral-900: #222C2A;
+
+    --ff-primary: 'Roboto, san-serif';
+    --ff-accent: 'IBM Plex Sans', san-serif;
 }
 
 *,
