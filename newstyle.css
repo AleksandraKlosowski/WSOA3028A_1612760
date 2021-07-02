@@ -1,7 +1,14 @@
+:root {
+    --clr-primary-200: #F3EED9;
+    --clr-primary-400: #824936;
+
+    --clr-neutral-100: #fff;
+    --clr-neutral-900: #222C2A;
+}
+
 *,
 *::before,
 *::after {
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
