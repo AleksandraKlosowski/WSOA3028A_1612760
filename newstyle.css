@@ -15,7 +15,7 @@
     box-sizing: border-box;
 }
 body {
-    padding-top: 10px;
+    padding-top: 40px;
     font-family: var(--ff-primary);
     font-weight: 400;
     font-size: 1.3125rem;
@@ -47,7 +47,6 @@ h3 {
     text-align: center;
 }
 
-header,
 section{
     padding: 3rem 0;
 }
