@@ -46,7 +46,10 @@ h3 {
     text-align: center;
 }
 
-header,
+header{
+    padding: 2rem 0;
+}
+
 section{
     padding: 3rem 0;
 }
