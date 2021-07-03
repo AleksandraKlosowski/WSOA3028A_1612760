@@ -38,6 +38,14 @@ h3 {
     font-weight: 900;
     line-height: 1;
 }
-.bg-light { background-color: var(--clr-primary-200)}
-.bg-primary { background-color: var(--clr-primary-400)}
-.bg-dark { background-color: var(--clr-neutral-900)}
+.bg-light { 
+    background-color: var(--clr-primary-200)
+}
+.bg-primary { 
+    color: var(--clr-neutral-100);
+    background-color: var(--clr-primary-400)
+}
+.bg-dark { 
+    color: var(--clr-neutral-100);
+    background-color: var(--clr-neutral-900)
+}
