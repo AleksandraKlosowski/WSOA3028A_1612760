@@ -31,7 +31,12 @@ p {
 
 
 sub,
-h1
+h1{
+    color: var(--clr-primary-400);
+    font-family: var(--ff-accent);
+    font-weight: 900;
+    line-height: 1;
+}
 h2,
 h3 {
     color: var(--clr-primary-400);
