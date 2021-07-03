@@ -71,13 +71,13 @@ header
 }
 
 section{
-    padding: 2rem 0;
+    padding: 3rem 0;
 }
 
 @media (min-width: 40em) {
     section
 {
-    padding: 3rem 0;
+    padding: 4rem 0;
 }
 }
 
