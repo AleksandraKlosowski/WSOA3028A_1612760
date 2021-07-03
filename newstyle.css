@@ -54,7 +54,8 @@ p {
 img {
     display: block;
     max-width: 70%;
-
+    padding-right: 2em;
+    padding-left: 2em;
 }
 
 .text-center {
