@@ -59,6 +59,10 @@ section{
     width: min(90%, 70,5rem);
 }
 
+.container--narrow{
+    max-width: 35rem;
+}
+
 .bg-light { 
     background-color: var(--clr-primary-200)
 }
