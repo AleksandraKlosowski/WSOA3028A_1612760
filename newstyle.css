@@ -29,6 +29,10 @@ p {
     margin: 0;
 }
 
+.text-size{
+    size: 1;
+}
+
 sub,
 h1,
 h2,
