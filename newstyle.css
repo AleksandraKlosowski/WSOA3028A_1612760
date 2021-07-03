@@ -43,6 +43,11 @@ section{
     padding: 3rem 0;
 }
 
+.container{
+    margin-inline: auto;
+    width: min(90%, 70,5rem);
+}
+
 .bg-light { 
     background-color: var(--clr-primary-200)
 }
