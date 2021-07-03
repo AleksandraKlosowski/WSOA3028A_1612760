@@ -82,6 +82,10 @@ section{
     .split {
         flex-direction: row;
     }
+
+    .split > * {
+        flex-basis: 100%;
+    }
 }
 
 .container--narrow{
