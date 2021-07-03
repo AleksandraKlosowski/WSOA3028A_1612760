@@ -67,7 +67,7 @@ img {
 
 header
 {
-    padding: 4rem 0;
+    padding: 2rem 0;
 }
 
 section{
@@ -77,7 +77,7 @@ section{
 @media (min-width: 40em) {
     section
 {
-    padding: 7rem 0;
+    padding: 6rem 0;
 }
 }
 
