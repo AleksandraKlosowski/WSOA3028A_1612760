@@ -86,6 +86,9 @@ section{
     .split > * {
         flex-basis: 100%;
     }
+    .split > * + * {
+        margin-left: 2em;
+    }
 }
 
 .container--narrow{
