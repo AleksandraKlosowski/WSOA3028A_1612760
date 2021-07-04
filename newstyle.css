@@ -29,8 +29,6 @@ p {
     margin: 0;
 }
 
-
-sub,
 h1{
     color: var(--clr-primary-400);
     font-family: var(--ff-accent);
