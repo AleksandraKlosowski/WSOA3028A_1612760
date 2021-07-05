@@ -32,8 +32,10 @@ footer {
 
 
 main {
-    padding-top: 60px; 
+
     font-family: 'IBM Plex Sans', sans-serif;
+    padding: 2rem 0;
+    background-color: #222C2A;
   }
 
 .logo {
