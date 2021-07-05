@@ -54,6 +54,10 @@ p {
     margin-top: 1em;
 }
 
+.padding{
+    padding: 1.5rem;
+}
+
 img {
     display: center;
     max-width: 70%;
@@ -71,7 +75,7 @@ img {
 
 header
 {
-    padding: 3rem 0;
+    padding: 2.5rem 0;
 }
 
 section{
